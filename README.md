@@ -1,8 +1,8 @@
 # Lair Finance: Decentralized Kaia Liquid Staking
 
-Welcome to Lair Finance. Lair is the first decentralized liquid staking derivative service on the Kaia network, built on the premise of [**KIP-163: CnStakingV3**](https://docs.kaia.io/learn/governance/governance-by-kip/#kip-163-cnstakingv3-with-public-delegation-), providing a simple way and diverse options to get rewards with KAIA token.
-
 ![Lair Finance](images/lair-lsd.png)
+
+Welcome to Lair Finance. Lair is the first decentralized liquid staking derivative service on the Kaia network, built on the premise of [**KIP-163: CnStakingV3**](https://docs.kaia.io/learn/governance/governance-by-kip/#kip-163-cnstakingv3-with-public-delegation-), providing a simple way and diverse options to get rewards with KAIA token.
 
 ## Features
 
